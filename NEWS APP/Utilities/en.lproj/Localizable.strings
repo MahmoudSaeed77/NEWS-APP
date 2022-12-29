@@ -1,0 +1,19 @@
+/* 
+  Localizable.strings
+  NEWS APP
+
+  Created by Mahmoud Saeed on 29/12/2022.
+  
+*/
+"Home" = "Home";
+"Published" = "Published";
+"By" = "By";
+"Headline" = "Headline";
+
+
+"Languages" = "Languages";
+"choose app language" = "choose app language";
+"English" = "English";
+"Frensh" = "Frensh";
+"Arabic" = "Arabic";
+"Cancel" = "Cancel";

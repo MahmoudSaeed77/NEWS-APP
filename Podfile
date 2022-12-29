@@ -12,4 +12,5 @@ target 'NEWS APP' do
 	pod 'NVActivityIndicatorView'
 	pod 'Alamofire'
   pod 'Kingfisher'
+  pod 'MOLH'
 end

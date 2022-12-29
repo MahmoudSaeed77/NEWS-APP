@@ -1,0 +1,12 @@
+
+/* Class = "UILabel"; text = "Author"; ObjectID = "Bj5-IF-4qE"; */
+"Bj5-IF-4qE.text" = "Author";
+
+/* Class = "UILabel"; text = "Date"; ObjectID = "FUS-yE-dVL"; */
+"FUS-yE-dVL.text" = "Date";
+
+/* Class = "UITextView"; text = "Description"; ObjectID = "Jfq-ZO-XZG"; */
+"Jfq-ZO-XZG.text" = "Description";
+
+/* Class = "UILabel"; text = "Title"; ObjectID = "m61-PP-NJj"; */
+"m61-PP-NJj.text" = "Title";

@@ -1,0 +1,21 @@
+
+/* Class = "UIButton"; configuration.title = "OPEN ARTICLE ON BROWSER"; ObjectID = "28k-L0-vSo"; */
+"28k-L0-vSo.configuration.title" = "OPEN ARTICLE ON BROWSER";
+
+/* Class = "UIButton"; normalTitle = "Button"; ObjectID = "28k-L0-vSo"; */
+"28k-L0-vSo.normalTitle" = "Button";
+
+/* Class = "UILabel"; text = "date"; ObjectID = "8Ui-X4-crY"; */
+"8Ui-X4-crY.text" = "date";
+
+/* Class = "UILabel"; text = "Data"; ObjectID = "Lot-SS-Had"; */
+"Lot-SS-Had.text" = "Data";
+
+/* Class = "UIBarButtonItem"; title = "Language"; ObjectID = "eoT-xm-NQS"; */
+"eoT-xm-NQS.title" = "Langue";
+
+/* Class = "UITextView"; text = "description"; ObjectID = "hoc-Wo-tld"; */
+"hoc-Wo-tld.text" = "description";
+
+/* Class = "UITextView"; text = "content"; ObjectID = "xHW-Sk-V5U"; */
+"xHW-Sk-V5U.text" = "content";
